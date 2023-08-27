@@ -102,6 +102,8 @@ nav a:hover {
     max-width: 800px;
     margin: 0 auto;
 }
+.Staff img {
+    max-width: 100px;}
 
 .contact {
     padding: 100px 0;
