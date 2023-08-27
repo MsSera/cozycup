@@ -54,11 +54,6 @@ nav a:hover {
 }
 
 .hero h1 {
-    header {
-        background-color: #ffff;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-        padding: 0px 0;
-    }
     font-size: 36px;
     margin-bottom: 20px;
 }
@@ -132,5 +127,5 @@ footer {
     background-color: #4c3c32;
     color: white;
     text-align: center;
-    padding: 20px 0;
+    padding: 0px 0;
 }
