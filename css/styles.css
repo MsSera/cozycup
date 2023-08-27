@@ -13,7 +13,7 @@ body {
 header {
     background-color: #447596;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    padding: 20px 0;
+    padding: 0px 0;
 }
 
 nav {
@@ -23,7 +23,7 @@ nav {
 }
 
 .logo img {
-    max-width: 100px;
+    max-width: 150px;
 }
 
 nav ul {
