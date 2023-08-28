@@ -177,7 +177,7 @@ input[type=text], select, textarea {
     background-color: #efe8e8;
     padding: 50px;
     margin-left: auto;
-    width: 150;
+    width: 150%;
    
   }
   .menu {
