@@ -16,6 +16,7 @@ header {
     padding: 0px 0;
 }
 
+
 nav {
     display: flex;
     justify-content: space-between;
@@ -27,9 +28,10 @@ nav {
 }
 
 nav ul {
-    list-style: none;
+    list-style:none;
     display: flex;
     gap: 20px;
+    text-align: center;
 }
 
 nav a {
@@ -40,9 +42,9 @@ nav a {
 }
 
 nav a:hover {
-    color: #7e685b;
-    font-size: 36px;
-    margin-bottom: 40px;
+    color: #fff;
+    font-size: 30px;
+    margin-bottom: 0px;
 }
 
 .hero {
@@ -127,8 +129,14 @@ footer {
     background-color: #4c3c32;
     color: white;
     text-align: center;
-    padding: 0px 0;
+    padding: 5px 0;
 }
+footer a:hover {
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
 .hero nav ul{
     list-style: none;
     display: flex;
