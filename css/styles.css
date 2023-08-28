@@ -175,7 +175,8 @@ input[type=text], select, textarea {
   .container {
     border-radius: 5px;
     background-color: #efe8e8;
-    padding: 200px;
+    padding: 100px;
+    margin-left: auto;
    
   }
   .menu {
