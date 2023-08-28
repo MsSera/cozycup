@@ -65,6 +65,10 @@ nav a:hover {
     font-size: 18px;
     margin-bottom: 40px;
 }
+.hero im {
+    background-image: url ('Coffee.jpg');
+    padding: 100px;
+}
 
 .cta-button {
     display: inline-block;
