@@ -73,11 +73,13 @@ nav a:hover {
    padding: 25px; 
    margin-left: auto;
    max-width: fit-content;
+max-height: fit-content ;
 }
 .pastrybck {
     padding: 25x; 
     margin-right: auto;
   max-width: fit-content;
+  max-height: fit-content;
  }
 
 .cta-button {
