@@ -173,10 +173,11 @@ input[type=text], select, textarea {
   
   /* Add a background color and some padding around the form */
   .container {
-    
+    border-radius: 10px;
     background-color: #efe8e8;
     padding: 50px;
     text-align: center;
+    margin: 50px;
    
   }
   .menu {
