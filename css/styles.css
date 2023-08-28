@@ -67,14 +67,17 @@ nav a:hover {
 }
 .logo {
     padding: 100px;
+    background-image: url('CafeBackground.jpg');
 }
 .coffeebck {
    padding: 100px; 
    margin-left: auto;
+   width: 50%;
 }
 .pastrybck {
     padding: 100px; 
     margin-right: auto;
+    width: 50%;
  }
 
 .cta-button {
