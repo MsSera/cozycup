@@ -179,5 +179,5 @@ input[type=text], select, textarea {
   }
   .menu {
     width: 50%; 
-    ;
+    text-align: center;
   }
