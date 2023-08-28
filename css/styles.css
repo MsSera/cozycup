@@ -70,14 +70,14 @@ nav a:hover {
   
 }
 .coffeebck {
-   padding: 100px; 
+   padding: 25px; 
    margin-left: auto;
-   width: 50%;
+   max-width: fit-content;
 }
 .pastrybck {
-    padding: 100px; 
+    padding: 25x; 
     margin-right: auto;
-    width: 50%;
+  max-width: fit-content;
  }
 
 .cta-button {
