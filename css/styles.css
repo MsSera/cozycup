@@ -65,11 +65,16 @@ nav a:hover {
     font-size: 18px;
     margin-bottom: 40px;
 }
+.logo {
+    padding: 100px;
+}
 .coffeebck {
    padding: 100px; 
+   margin-left: auto;
 }
 .pastrybck {
     padding: 100px; 
+    margin-right: auto;
  }
 
 .cta-button {
