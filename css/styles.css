@@ -67,17 +67,21 @@ nav a:hover {
 }
 .logo {
     padding: 100px;
+    max-width: max-content;
   
 }
 .coffeebck {
+    text-align: left;
    padding: 25px; 
    margin-left: auto;
+   max-width: 50%;
    height: auto;
 }
 .pastrybck {
+    text-align: right;
     padding: 25x; 
     margin-right: auto;
-  max-width: fit-content;
+  max-width: 50%;
    height: auto;
  }
 
