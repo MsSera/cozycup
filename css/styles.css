@@ -179,4 +179,5 @@ input[type=text], select, textarea {
   }
   .menu {
     width: 10%; 
+    float:center;
   }
