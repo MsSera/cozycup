@@ -50,6 +50,8 @@ nav a:hover {
 .hero {
     text-align: center;
     padding: 150px 0;
+   
+    background-size: cover;
     color: white;
 }
 
